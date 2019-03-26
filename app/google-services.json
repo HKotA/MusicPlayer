@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "953310582623",
+    "firebase_url": "https://music-cf0cc.firebaseio.com",
+    "project_id": "music-cf0cc",
+    "storage_bucket": "music-cf0cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953310582623:android:874810bd8769eb0f",
+        "android_client_info": {
+          "package_name": "com.example.hkota.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953310582623-hrk6jb02nv128fgcsaprdipa03b035u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hkota.music",
+            "certificate_hash": "fdb33bf01e241ea6fd601df8b163ab2503aa6185"
+          }
+        },
+        {
+          "client_id": "953310582623-1n09a634i57dnk36tqomhtqlgfrbk6d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsP7hXVrHTwwLlR7vJtwp4wTfYHiHPzk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953310582623-1n09a634i57dnk36tqomhtqlgfrbk6d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
